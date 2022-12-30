@@ -1,0 +1,12 @@
+/proc/self/cmdline
+/proc/self/environ
+/proc/self/cwd/index.php
+/proc/self/mounts
+/etc/hosts
+/etc/httpd/conf/httpd.conf
+/etc/apache2/sites-enabled/000-default.conf
+/usr/local/etc/nginx/nginx.conf
+/etc/nginx/conf/nginx.conf
+/proc/self/fd/2
+/proc/self/fd/1
+/proc/self/fd/0

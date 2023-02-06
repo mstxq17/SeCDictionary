@@ -1,0 +1,18 @@
+C:\boot.ini
+C:\windows\system32\drivers\etc\hosts
+C:\Windows\System32\inetsrv\MetaBase.xml
+C:\Windows\repair\sam
+C:\Program Files\mysql\my.ini
+C:\Program Files\mysql\data\mysql\user.MYD
+C:\Windows\my.ini
+C:\Windows\win.ini
+C:\Windows\php.ini
+..\\..\\..\\..\\..\\..\\boot.ini
+..\\..\\..\\..\\..\\..\\windows\system32\drivers\etc\hosts
+..\\..\\..\\..\\..\\..\\Windows\System32\inetsrv\MetaBase.xml
+..\\..\\..\\..\\..\\..\\Windows\repair\sam
+..\\..\\..\\..\\..\\..\\Program Files\mysql\my.ini
+..\\..\\..\\..\\..\\..\\Program Files\mysql\data\mysql\user.MYD
+..\\..\\..\\..\\..\\..\\Windows\my.ini
+..\\..\\..\\..\\..\\..\\Windows\win.ini
+..\\..\\..\\..\\..\\..\\Windows\php.ini

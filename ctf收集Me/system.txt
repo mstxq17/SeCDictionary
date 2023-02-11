@@ -7,6 +7,8 @@
 /etc/apache2/sites-enabled/000-default.conf
 /usr/local/etc/nginx/nginx.conf
 /etc/nginx/conf/nginx.conf
+/etc/nginx/conf.d/nginx.conf
+/etc/nginx/nginx.conf
 /proc/self/fd/2
 /proc/self/fd/1
 /proc/self/fd/0

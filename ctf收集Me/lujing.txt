@@ -142,3 +142,4 @@
 /usr/local/cpanel/logs/stats_log
 /usr/local/share/examples/php4/php.ini
 /usr/local/share/examples/php/php.ini
+/var/log/mariadb/mariadb.log

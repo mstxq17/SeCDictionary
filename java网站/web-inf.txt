@@ -30,6 +30,7 @@ WEB-INF/applicationContext.xml
 WEB-INF/beans.xml
 WEB-INF/cas-servlet.xml
 WEB-INF/cas.properties
+WEB-INF/classes/config.xml
 WEB-INF/classes/app-config.xml
 WEB-INF/classes/application.properties
 WEB-INF/classes/application.yml

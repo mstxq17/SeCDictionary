@@ -1,3 +1,8 @@
+/api/user/list
+/api/user/get
+/api/user/logout
+/api/user/login
+/user/login
 /api/v1/
 /api/v1/scan
 /api

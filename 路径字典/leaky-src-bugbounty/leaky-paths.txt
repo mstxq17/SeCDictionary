@@ -1,3 +1,4 @@
+/auth.json
 /+CSCOE+/logon.html
 /+CSCOT+/oem
 /+CSCOT+/translation

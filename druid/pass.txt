@@ -46,7 +46,6 @@ druid@20181022
 druid@2019
 dwsdb123456
 fccar
-filter:
 guoheng
 hello
 hqttql
@@ -77,7 +76,6 @@ test
 toor
 trust@zjnblank.top
 vvi
-web-stat-filter:
 www.hztywl.cn
 xianyu
 xxcx

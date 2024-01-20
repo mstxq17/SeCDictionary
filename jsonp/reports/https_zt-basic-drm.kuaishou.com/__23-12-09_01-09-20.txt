@@ -1,0 +1,6 @@
+# Dirsearch started Sat Dec  9 01:10:41 2023 as: /usr/local/bin/dirsearch -u https://zt-basic-drm.kuaishou.com/ -x 404,405
+
+200   333B   https://zt-basic-drm.kuaishou.com/.well-known/apple-app-site-association
+200   671B   https://zt-basic-drm.kuaishou.com/.well-known/assetlinks.json
+403   280B   https://zt-basic-drm.kuaishou.com/download/
+301   216B   https://zt-basic-drm.kuaishou.com/download    -> REDIRECTS TO: https://zt-basic-drm.kuaishou.com/download/

